@@ -1,0 +1,52 @@
+*{
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#page{
+    height: 70vh;
+    width: 40vw;
+    background-color: rgba(166, 245, 39, 0.862);
+}
+
+#navBar{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
+.ele{
+    display: flex;
+}
+.ele2{
+    background-color: wheat;
+    width: 120px;
+    margin-bottom: 5px;
+    height: 25px;
+    padding-top: 3px;
+    padding-left: 6px;
+
+}
+.blackCol{
+    background-color: rgb(31, 28, 28);
+    width: 20px;
+    margin-bottom: 5px;
+    height: 25px;
+
+}
+#content{
+    position: relative;
+    left: 200px;
+    top: 20px;
+    width: 23vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: purple;
+}
+a{
+    text-decoration: none;
+}

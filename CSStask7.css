@@ -1,0 +1,30 @@
+td[colspan="2"] {
+    text-align: center;
+}
+label{
+    color: white;
+}
+#outer{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgb(202, 11, 93);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#inner{
+    width: 40vw;
+    height: 60vh;
+    background-color: rgb(104, 1, 46);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+input[type=submit]{
+    width: 15em;
+    height: 3rm;
+    border-radius: 3px;
+}

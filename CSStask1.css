@@ -1,0 +1,29 @@
+ table{
+    background-color: aqua;
+    width: 40vw;
+    height: 30vh;
+}
+
+td,th {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#tb2{
+    background-color: white;
+    width: 30vw;
+    height: 30vh;
+}
+.td2{
+    border: 1px solid rgb(5, 205, 5);
+    height: 10vw;
+    width: 10vw;
+}
+#brRadius{
+    border-radius: 32px;
+}
+#circle{
+    border-radius: 50%;
+}
+#last{
+    border-radius: 10px 100px / 120px;
+}

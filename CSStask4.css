@@ -1,0 +1,25 @@
+div{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: -70px;
+}
+#blueD{
+    background-color:#3498db;
+    top: 30px;
+}
+#greenD{
+    background-color : #2ecc71 ;  
+    top: 100px;  
+}
+#greyD{
+    background-color: grey;
+    top: 180px;
+}
+#redD{
+    background-color: red;
+    top: 250px;
+}
+div:hover{
+    left: -10px;
+}

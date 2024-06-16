@@ -1,0 +1,33 @@
+*{
+    left: 0;
+    top: 0;
+}
+#nav{
+    background-color: rgb(200, 197, 197);
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+}
+.ele{
+    color: blue;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+.ele:hover{
+    background-color:gray;
+    color: whitesmoke;
+}
+#nav2{
+    background-color: aquamarine;
+    width: 10vw;
+    display: flexbox;
+}
+.ele2{
+    color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.ele2:hover{
+    background-color:rgb(255, 208, 0);
+    color: whitesmoke;
+}

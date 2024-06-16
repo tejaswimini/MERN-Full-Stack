@@ -1,0 +1,44 @@
+#forForm{
+    width: 30vw;
+    position: relative;
+    left: 30%;
+    padding: 2px;
+}
+#forPhoto{
+    width:65%;
+    height: 200px;
+    border-radius: 50%;
+}
+img{
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+}
+.label1{
+    font-weight: bold;
+}
+.input1{
+    width: 100%;
+}
+#end{
+    background-color: rgb(158, 235, 210);
+    /* height: 40px; */
+    padding: 5px;
+}
+p{
+    display: inline;
+    position: relative;
+    left: 63%;
+}
+input[type=submit]{
+    background-color: rgb(66, 222, 66);
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+input[type=button]{
+    background-color: rgb(250, 52, 52);
+    height: 30px;
+    color: white;
+    border-radius: 3px;
+}
